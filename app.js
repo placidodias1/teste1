@@ -1,1 +1,1 @@
-console.log("ola mundo de novo errado")
+console.log("ola mundo de novo")
